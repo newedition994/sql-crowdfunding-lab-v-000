@@ -5,4 +5,4 @@ CREATE TABLE projects(
     funding_goal INTEGER,
     start_date ,
     end_date ,
-)
+);
